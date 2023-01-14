@@ -179,7 +179,7 @@ function createFeraligatorCard(){
    card.querySelector('h3').textContent = 'High jump kick - 50'
    card.querySelector('p').textContent = 'a strong air kick'
    card.querySelector('img:nth-child(n+2)').setAttribute("src", "https://wallpapercave.com/wp/wp2451676.jpg")
-   card.querySelector('h5').textContent = 'Inspired on Bruce Lee`s kicks this pokemon will be one of your best duel weapons'
+   card.querySelector('h5').textContent = 'This pokemon is inspired on Bruce Lee`s kicks'
    card.querySelector('section').innerHTML = 
    '<section class="energyContainer">' 
    + '<img src="https://ih1.redbubble.net/image.402377384.5407/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" height="20" alt="">'
