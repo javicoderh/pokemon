@@ -1,14 +1,17 @@
 body {
-justify-content: center;
-background-color: black;
 position: relative;
+justify-content: center;
+background: url(https://wallpapercave.com/wp/wp2528666.jpg);
+background-size: cover;
+
+
 }
 
 h1 {
 color: white;
 text-align: center;
 font-family: 'Rock Salt', cursive;
-color: rgb(222, 5, 171);
+color: rgb(96, 255, 242);
 text-decoration: goldenrod underline;
 }
 
