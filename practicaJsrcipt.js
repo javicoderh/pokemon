@@ -23,9 +23,9 @@ function createPikachuCard(){
  document.querySelector('h4').classList.add('hp')
  document.querySelector('div').style.background = 'url(https://wallpaperaccess.com/full/2609782.jpg)'
  card.querySelector('img:nth-child(n+2)').style.border = 'solid 2px silver'
- card.querySelector('h2').style.color = 'black'
+ card.querySelector('h2').style.color = 'white'
  card.querySelector('h3').style.color = 'black'
- card.querySelector('h4').style.color = 'black'
+ card.querySelector('h4').style.color = 'white'
  card.querySelector('h5').style.color = 'black'
  card.querySelector('p').style.color = 'black'
  card.querySelector('h3').style.backgroundColor = 'transparent'
